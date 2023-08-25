@@ -2,7 +2,7 @@
 
 <template>
   <div class="header">
-    <h1>CyberA</h1>
+    <p>CyberA</p>
   </div>
 </template>
 
@@ -11,11 +11,12 @@
   padding: 15px;
   background-color: purple;
 }
-.header h1 {
+.header p {
   text-align: center;
   font-family: sans-serif;
   color: white;
   font-weight: bold;
+  font-size: 35px;
   text-decoration: underline;
 }
 </style>

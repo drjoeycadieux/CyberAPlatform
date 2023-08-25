@@ -18,6 +18,6 @@
 .footer p {
   color: white;
   text-align: center;
-  font-family: sans-serif;
+  font-family: serif;
 }
 </style>
