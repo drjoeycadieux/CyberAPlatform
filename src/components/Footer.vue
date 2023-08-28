@@ -26,6 +26,7 @@ export default {
 .footer p {
   color: white;
   text-align: center;
-  font-family: serif;
+  font-family: sans-serif;
+  font-weight: bold;
 }
 </style>
