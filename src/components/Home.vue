@@ -3,11 +3,14 @@ import Footer from "./Footer.vue";
 import FooterLayout from "./FooterLayout.vue";
 import HeaderLayout from "./HeaderLayout.vue";
 import Header from "./Header.vue";
+import Alerts from './Alerts.vue';
 </script>
 
 <template>
   <Header />
   <HeaderLayout />
+  <br>
+  <Alerts/>
   <div class="home-content">
     <p>&mdash; CyberA Platform &mdash;</p>
     <center>
